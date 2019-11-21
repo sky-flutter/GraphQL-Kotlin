@@ -1,4 +1,4 @@
-package com.plus8.parcelpal.graphql_kotlin
+package com.example.demo.graphql_kotlin
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,8 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import com.apollographql.apollo.ApolloCall
 import com.apollographql.apollo.api.Response
 import com.apollographql.apollo.exception.ApolloException
-import com.plus8.parcelpal.graphql_kotlin.api.ApiClient
-import com.plus8.parcelpal.graphql_kotlin.utils.CustomValidator
+import com.example.demo.graphql_kotlin.api.ApiClient
+import com.example.demo.graphql_kotlin.utils.CustomValidator
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

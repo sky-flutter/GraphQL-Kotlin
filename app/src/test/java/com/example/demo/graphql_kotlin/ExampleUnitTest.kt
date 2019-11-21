@@ -1,4 +1,4 @@
-package com.plus8.parcelpal.graphql_kotlin
+package com.example.demo.graphql_kotlin
 
 import org.junit.Test
 

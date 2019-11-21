@@ -1,4 +1,4 @@
-package com.plus8.parcelpal.graphql_kotlin
+package com.example.demo.graphql_kotlin
 
 import android.os.Bundle
 import android.widget.Toast
@@ -7,8 +7,8 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.apollographql.apollo.ApolloCall
 import com.apollographql.apollo.api.Response
 import com.apollographql.apollo.exception.ApolloException
-import com.plus8.parcelpal.graphql_kotlin.adapter.UserListAdapter
-import com.plus8.parcelpal.graphql_kotlin.api.ApiClient
+import com.example.demo.graphql_kotlin.adapter.UserListAdapter
+import com.example.demo.graphql_kotlin.api.ApiClient
 import kotlinx.android.synthetic.main.activity_home.*
 
 class HomeActivity : AppCompatActivity() {

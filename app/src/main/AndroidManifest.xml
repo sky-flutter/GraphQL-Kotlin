@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.plus8.parcelpal.graphql_kotlin">
+          package="com.example.demo.graphql_kotlin">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -13,11 +13,11 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
             android:usesCleartextTraffic="true">
-        <activity android:name=".HomeActivity">
+        <activity android:name="com.example.demo.graphql_kotlin.HomeActivity">
         </activity>
-        <activity android:name=".RegisterActivity">
+        <activity android:name="com.example.demo.graphql_kotlin.RegisterActivity">
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.demo.graphql_kotlin.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

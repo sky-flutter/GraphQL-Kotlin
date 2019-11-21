@@ -1,4 +1,4 @@
-package com.plus8.parcelpal.graphql_kotlin.utils
+package com.example.demo.graphql_kotlin.utils
 
 import android.util.Patterns
 import android.widget.EditText

@@ -1,4 +1,4 @@
-package com.plus8.parcelpal.graphql_kotlin.api
+package com.example.demo.graphql_kotlin.api
 
 import com.apollographql.apollo.ApolloClient
 import okhttp3.OkHttpClient

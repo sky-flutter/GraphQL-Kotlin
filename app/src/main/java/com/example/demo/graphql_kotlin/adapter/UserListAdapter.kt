@@ -1,4 +1,4 @@
-package com.plus8.parcelpal.graphql_kotlin.adapter
+package com.example.demo.graphql_kotlin.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.plus8.parcelpal.graphql_kotlin.GetUserListQuery
-import com.plus8.parcelpal.graphql_kotlin.R
+import com.example.demo.graphql_kotlin.GetUserListQuery
+import com.example.demo.graphql_kotlin.R
 import kotlinx.android.synthetic.main.item_user_list.view.*
 
 class UserListAdapter : RecyclerView.Adapter<UserListAdapter.UserViewHolder>() {
